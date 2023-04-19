@@ -1,0 +1,67 @@
+#header{
+	display: grid;
+	grid-template-columns: 2fr 5fr;
+	background: white;
+	color: white;
+}
+
+#nom{
+	letter-spacing: 0.5em;
+	font-weight: bold;
+	margin-top: 20px;
+	color: black;
+}
+
+#metier{
+	letter-spacing: 0.2em;
+	margin-top: 30px;
+	color: black;
+}
+
+#ligne{
+	width: 440px;
+	height: 7px;
+	margin-top: 20px;
+	background: #CECED0;
+}
+
+
+#banniere_CV {
+	background: #038ccc;
+	margin-top: 60px;
+	margin-bottom: 60px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+#banniere_CV h3 {
+	color:white;
+	margin-left: 30px;
+}
+
+
+#banniere_Propos {
+	background: #038ccc;
+	margin-top: 40px;
+	margin-bottom: 60px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+#banniere_Propos h3 {
+	color:white;
+	margin-left: 30px;
+}
+
+#texte{
+	letter-spacing: 0.2em;
+	color: black;
+}
+
+#image{
+	height: 80px;
+	width: 160px;
+	margin-top:-20px;
+	margin-bottom:-20px;
+}
+
